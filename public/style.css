@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(27, 38, 44);
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    font-family: 'Roboto Mono', monospace !important;
+
+    /*rgb(27, 38, 44) Color Azul 4 (Oscuro)*/
+    /*rgb(15, 76, 117) Color Azul 3*/
+    /*rgb(50, 130, 184) Color Azul 2*/
+    /*rgb(187, 225, 250) Color Azul 1 (Claro)*/
+
+}
