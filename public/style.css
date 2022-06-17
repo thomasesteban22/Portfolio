@@ -25,6 +25,10 @@ body{
     margin-top: 90vh;
     position: absolute;
 }
+.lineMenu h1{
+
+}
+
 .navBar{
     top:0;
     width: 100%;
@@ -37,6 +41,8 @@ body{
 }
 .navBar i{
     color:rgb(187, 225, 250);
+}
+.navBar a{
     margin-left: 1.5%;
     margin-right: 1.5%;
 }
@@ -56,4 +62,15 @@ body{
     font-size: 110px;
     color:rgb(187, 225, 250);
     border-bottom: solid 10px aliceblue;
+    margin-left: 2%;
+}
+.contenidoInicio h5{
+    font-size: 40px;
+    color:rgb(187, 225, 250);
+    margin-left: 2%;
+}
+.contenidoInicio p{
+    font-size: 20px;
+    color:rgb(187, 225, 250);
+    margin-left: 2%;
 }
