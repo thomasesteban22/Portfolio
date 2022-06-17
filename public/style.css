@@ -51,8 +51,8 @@ body{
     margin-left: 0.3%;
     margin-right: 0.3%;
 }
-.navBar span:hover{
-
+.navBar i:hover{
+    color:rgb(50, 130, 184) ;
 }
 .contenidoInicio{
     width: 50%;
