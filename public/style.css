@@ -20,6 +20,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
 }
 .lineMenu i{
     margin-top: 90vh;
@@ -28,7 +29,8 @@ body{
 .lineMenu h1{
     font-size: 17px;
     text-align: center;
-    margin-top: 70%;
+    margin-top: 20%;
+    margin-bottom: 65%;
     color:rgb(15, 76, 117);
 }
 .lineMenu h1:hover{
@@ -68,21 +70,20 @@ body{
 .contenidoInicio h1{
     font-size: 110px;
     color:rgb(187, 225, 250);
-    border-bottom: solid 10px aliceblue;
     margin-left: 2%;
 }
 .contenidoInicio h5{
     font-size: 40px;
-    color:rgb(187, 225, 250);
+    color:rgb(50, 130, 184);
     margin-left: 2%;
 }
 .contenidoInicio p{
     font-size: 20px;
-    color:rgb(187, 225, 250);
+    color:rgb(50, 130, 184);
     margin-left: 2%;
 }
 .animeTest{
-    background-color: rebeccapurple;
-    width: 50px;
-    height: 50px;
+    background-color: rgb(50, 130, 184);
+    width: 80vh;
+    height: 15px;
 }
