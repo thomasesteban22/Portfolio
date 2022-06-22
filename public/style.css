@@ -18,15 +18,22 @@ body{
     width: 10%;
     background-color:rgb(50, 130, 184);
     display: flex;
-
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
 }
 .lineMenu i{
     margin-top: 90vh;
     position: absolute;
 }
 .lineMenu h1{
-
+    font-size: 17px;
+    text-align: center;
+    margin-top: 70%;
+    color:rgb(15, 76, 117);
+}
+.lineMenu h1:hover{
+    font-size: 19px;
+    color:rgb(27, 38, 44) ;
 }
 
 .navBar{
@@ -73,4 +80,9 @@ body{
     font-size: 20px;
     color:rgb(187, 225, 250);
     margin-left: 2%;
+}
+.animeTest{
+    background-color: rebeccapurple;
+    width: 50px;
+    height: 50px;
 }
